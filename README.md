@@ -56,4 +56,4 @@ Activate Leader Key, then <kbd>cmd + ,</kbd>.
 
 ## License
 
-MIT
+[MIT License](LICENSE)
